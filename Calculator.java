@@ -15,6 +15,9 @@ public class Calculator {
 	case 1:
 	result=fno+sno;
 	break;
+	case 2:	
+	result=fno-sno;
+	break;
  	default:
         System.out.println("Enter Correct Choice ");
 	}
